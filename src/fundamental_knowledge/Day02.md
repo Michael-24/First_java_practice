@@ -8,7 +8,7 @@
 关键字如下图: 👇
 
 
-![image-20210712151821229](C:\Users\Michael\AppData\Roaming\Typora\typora-user-images\image-20210712151821229.png)
+![image-20210712151821229](https://github.com/Michael-24/First_java_practice/blob/main/image/Day02_1.png)
 
 ### 标识符
 
@@ -33,7 +33,7 @@
 Java中的变量是程序中最基本的存储单元，要素包括变量名、变量类型和作用域。
  数据类型  变量名 = 值;  相同的数据类型的不同变量能够用逗号进行隔开。
 
-![image-20210712154213270](C:\Users\Michael\AppData\Roaming\Typora\typora-user-images\image-20210712154213270.png)
+![image-20210712154213270](https://github.com/Michael-24/First_java_practice/blob/main/image/Day02_2.png)
 
 但是使用float 会存在精度的缺失，只是个大约值，接近但不相等。
 
